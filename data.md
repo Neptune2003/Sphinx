@@ -124,9 +124,9 @@ MULTIPLE COUNTRIES
 The following are some research internships for Indian students:
 
 1. ~~S.N. Bose Scholarship sponsored by IUSSTF~~, it's been closed for almost two years now.
-2. [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
-3. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
-4. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
+2. [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR. ==\\  3rd 4th year  bangaloree
+3. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany    \\  not eligible 
+4. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute 
 5. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 6. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
 7. [NTU-India Connect](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu), sponsored by NTU
@@ -134,8 +134,8 @@ The following are some research internships for Indian students:
 9. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
 10. [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
 11. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
-12. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
-13. [IIITD Summer Internship](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+12. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF  
+13. [IIITD Summer Internship](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi  //only 8th semm
 14. [Summer Research Fellowship Programme 2021](https://webjapps.ias.ac.in/fellowship2022/index.html), IISc, IAS, INS
 15. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 16. [Internship At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
@@ -144,7 +144,7 @@ The following are some research internships for Indian students:
 19. [Hackerrank SDE intern](https://breakinghierarchy.com/hackerrank-sde-intern/)
 20. [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
 21. [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/), IISER Kolkata
-22. [IITM Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
+22. [IITM Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras    // 3rd yearrr
 23. [IITD GIPEDI](https://web.iitd.ac.in/~subrat/SummerInternshipRules.htm), IIT Delhi
 24. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
 25. [IITK SURGE Program](http://surge.iitk.ac.in/about.html), IIT Kanpur
