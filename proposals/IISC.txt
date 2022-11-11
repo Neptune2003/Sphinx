@@ -1,0 +1,59 @@
+Extra-curricular activities, if any
+
+Writer and Reporter
+Writer at "FYI”, university newsletter. Reporter of college annual fest, Aatmatrisha ’22. Have voraciously wrote short stories, articles and reports all through my school and college.
+
+Quiz member, Quiz Quotient Corps club.
+Have participated in various quiz tournaments across campus and other Universities.
+Was selected for 24th APRSAF Space Conference, due to my quiz work, which was hosted by ISRO, India and JAXA, Japan which granted me a chance to represent my nation India in front of 13 other asian pacific nations in the water rocket competetion assossiated with the space conference, while learning the rocket model artwork under ISRO.
+
+Language learning :- Domain head member of Linguista, language learning club of the University
+Can hold conversation over 6 languages. Currently learning Spanish for past 1.5 year. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Training / projects undertaken, if any (give details)
+
+PROJECTS :- 
+
+8 Bit Computer
+Implemented a 8-bit General Purpose Computer built from scratch on FPGA board having load-store architecture using
+Verilog HDL
+• Built a memory module and an ALU with CLA adder and Booth
+• Implemented Recursive function calls and the General Purpose Computer could run programs and
+display results through LED
+• Implemented an Interpreted and Compiler for the programs to be run on this General Purpose Computer
+• Chosen as one of the best projects in the course
+
+Help support website.
+Built a free website for the "Hands of Hope” NGO foundation, with features like Chat system, mental health resources and stress tests. This website was selected as one of the top 3 projects in "Haul it away”, an annual hackathon.
+link : https://github.com/Nandan-N/NGO-website
+
+Git System.
+Built a local git system using python that can do various standard functions like create a repository, commit, and push itself to GitHub.
+link: https://github.com/Nandan-N/Git-version-control-system
+
+
+I have also undertaken and completed the following certification courses :-
+• Supervised Machine Learning: Regression and Classification
+From Andrew Ng, Coursera
+• Unsupervised Learning, Recommenders, Reinforcement Learning
+From Andrew Ng, Coursera
+• Advanced Learning Algorithms
+From Andrew Ng, Coursera
+• Complete Web Development bootcamp
+From Angela Yu, Udemy
+• Digital Marketing
+From Google 
+• Integrated Robotics and Applied Computer Vision
+From PesU IO
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+A write-up* (not exceeding 150–250 words) as to the specific area of interest of the applicant and what he/she would like to learn and achieve through this fellowship. It can also include the specific experiment or theory that the applicant wants to work on but NOT a general description of the area. The write-up should not be a copy and paste job from any source
