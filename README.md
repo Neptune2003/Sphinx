@@ -1,2 +1,2 @@
 # Sphinx
-Stored data for the project lolipop
+Stored data for the project Casien Nitrate
