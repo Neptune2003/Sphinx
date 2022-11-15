@@ -30,6 +30,9 @@ https://graduate.engineering.asu.edu/suri/
 Santa FE Undergraduate Complexity Research
 https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research
 
+Aalto finland
+https://www.aalto.fi/en/aalto-science-institute-asci/how-to-apply-to-the-asci-international-summer-research-programme
+
 
 
 ***
