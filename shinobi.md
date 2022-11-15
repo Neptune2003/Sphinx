@@ -1,4 +1,4 @@
-# go 
+# live.
 
 Current propositions 
 
@@ -19,6 +19,7 @@ https://eee.epfl.ch/
 
 RIPS - 
 http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023/
+http://www.ipam.ucla.edu/programs/student-research-programs/
 
 CERN Summer {Jan 30} - 
 https://www.smartrecruiters.com/CERN/743999788187918-cern-openlab-summer-student-programme-2022
