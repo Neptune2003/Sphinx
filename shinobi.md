@@ -14,7 +14,7 @@ finish -
 RISS - Jan 10th  
 https://riss.ri.cmu.edu/apply/
 
-EPFL - nov 25th 
+>>> EPFL - nov 25th 
 https://eee.epfl.ch/
 
 RIPS - 
