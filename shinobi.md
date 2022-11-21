@@ -33,6 +33,12 @@ https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research
 Aalto finland
 https://www.aalto.fi/en/aalto-science-institute-asci/how-to-apply-to-the-asci-international-summer-research-programme
 
+Oxford intern - jan 20
+https://www.careers.ox.ac.uk/about-the-summer-internship-programme#collapse1553591
+
+AMGEN Asia
+https://amgenscholars.com/asia-program/
+
 
 
 ***
