@@ -36,58 +36,20 @@ https://www.aalto.fi/en/aalto-science-institute-asci/how-to-apply-to-the-asci-in
 Oxford intern - jan 20
 https://www.careers.ox.ac.uk/about-the-summer-internship-programme#collapse1553591
 
-AMGEN Asia
+AMGEN Asia // year 3
 https://amgenscholars.com/asia-program/
 
+Hansen Leadership  Jan 10th
+https://hansenleadershipinstitute.org/apply-now/
 
+Space Telescope 
+https://www.stsci.edu/opportunities/space-astronomy-summer-program
+open-1 jan to 25 jan
 
 ***
 ___
 
 </br>
 
-RISCC 
 
-
-General Timeline :
-
-January
-
-    Application system closes January 15
-
-    Admissions review
-
-February
-
-    Admissions review finalized
-
-    Selection and interviews (mid-to-end February)
-
-March
-
-    Final selection of candidates (March 30)
-
-April
-
-    Selection and admissions processing completed
-
-    Administrative processing commences
-
-    Virtual Q&A Sessions held for cohort members
-
-May
-
-    Pre-arrival orientations and activities
-
-    RISS virtual program kick-off workshops and activities
-
-June
-
-    Full program welcome and launch (June 1)
-
-August
-
-    RISS program closing events
-
-    RISS program close (August 5)
 
