@@ -14,9 +14,6 @@ finish -
 RISS - Jan 10th  
 https://riss.ri.cmu.edu/apply/
 
->>> EPFL - nov 25th 
-https://eee.epfl.ch/
-
 RIPS - 
 http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023/
 http://www.ipam.ucla.edu/programs/student-research-programs/
@@ -40,8 +37,6 @@ https://www.aalto.fi/en/aalto-science-institute-asci/how-to-apply-to-the-asci-in
 Oxford intern - jan 20
 https://www.careers.ox.ac.uk/about-the-summer-internship-programme#collapse1553591
 
-AMGEN Asia // year 3
-https://amgenscholars.com/asia-program/
 
 Hansen Leadership  Jan 10th
 https://hansenleadershipinstitute.org/apply-now/
@@ -55,5 +50,14 @@ ___
 
 </br>
 
+AMGEN Asia 
+// year 3
+https://amgenscholars.com/asia-program/
 
+
+https://scholarshipscorner.website/
+
+
+EPFL - nov 25th 
+https://eee.epfl.ch/
 
