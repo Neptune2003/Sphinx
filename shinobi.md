@@ -8,6 +8,13 @@ programmes
 
 > research int 
 
+***
+
+Jan - Projectt mini prof + CIE L2 TA
+Febb - Github student campus febb 
+may - internshippp
+
+
 ---
 
 finish -
