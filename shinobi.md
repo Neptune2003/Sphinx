@@ -7,7 +7,8 @@ Current propositions
 programmes
 > research int 
 
-explore international conferences fully funded 
+>>>`explore international conferences fully funded `
+>>>https://oyaop.com/opportunity/conferences/2022-fully-funded-conferences-apply-now/
 
 ***
 
