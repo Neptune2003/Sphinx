@@ -5,8 +5,9 @@ Current propositions
 
 > startup route  
 programmes
-
 > research int 
+
+explore international conferences fully funded 
 
 ***
 
@@ -51,6 +52,19 @@ https://hansenleadershipinstitute.org/apply-now/
 Space Telescope 
 https://www.stsci.edu/opportunities/space-astronomy-summer-program
 open-1 jan to 25 jan
+
+Ocean jan 31st /
+https://www.whoi.edu/what-we-do/educate/undergraduate-programs/summer-student-fellowship/
+
+world bank 
+https://www.worldbank.org/en/about/careers/programs-and-internships/internship
+Jan 31st 
+
+IST Austria yta
+https://phd.pages.ista.ac.at/isternship/
+
+UNIL 
+https://www.unil.ch/eb-sur/en/home.html
 
 ***
 ___
