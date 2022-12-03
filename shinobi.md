@@ -66,9 +66,6 @@ https://www.worldbank.org/en/about/careers/programs-and-internships/internship
 IST Austria yta Jan 30\
 https://phd.pages.ista.ac.at/isternship/
 
-UNIL - Jan 30\
-https://www.unil.ch/eb-sur/en/home.html
-
 > reference https://www.dpu.edu.krd/page/en/4649/
 
 ***
