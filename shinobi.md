@@ -33,6 +33,13 @@ Lunar Planetery
 dec 10th \
 https://www.lpi.usra.edu/lpiintern/
 
+AMGEN 30 jan\
+singapore 
+https://amgenscholars.com/university/national-university-of-singapore/ \
+china http://tsinghuaamgenscholars.com/7.html# \
+Japan tokyo https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html \
+kyoto http://www.opir.kyoto-u.ac.jp/study/en/curriculum/amgenscholars/ \
+ 
 CERN Summer {Jan 30} - \
 https://www.smartrecruiters.com/CERN/743999788187918-cern-openlab-summer-student-programme-2022
 
