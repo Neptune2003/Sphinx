@@ -39,6 +39,9 @@ https://www.smartrecruiters.com/CERN/743999788187918-cern-openlab-summer-student
 ASU SURI {Jan 30} - \
 https://graduate.engineering.asu.edu/suri/
 
+LIGOO caltech - 13th Jan \
+http://www.gw.iucaa.in/ligo-surf-program/
+
 Santa FE Undergraduate Complexity Research - Jan 10th\
 https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research
 
