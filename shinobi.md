@@ -33,6 +33,9 @@ Lunar Planetery
 dec 10th \
 https://www.lpi.usra.edu/lpiintern/
 
+ETH Zurich Dec 15th \
+https://inf.ethz.ch/studies/summer-research-fellowship.html
+
 AMGEN 30 jan\
 singapore 
 https://amgenscholars.com/university/national-university-of-singapore/ \
